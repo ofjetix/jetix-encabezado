@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="54" height="53"><g transform="translate(0 0)"><defs><clipPath id="right_1_clip"><path d="M0 0H54V53H0Z"/></clipPath></defs><g clip-path="url(#right_1_clip)"><path fill="#193075" d="M6 8L53 43H3Z"/><g transform="translate(44 14) scale(-1.4 1.4)"><g xmlns="http://www.w3.org/2000/svg" xmlns:ns1="https://www.free-decompiler.com/flash" xmlns:xlink="http://www.w3.org/1999/xlink" transform="matrix(1.0, 0.0, 0.0, 1.0, 7.55, 16.15)">
+    <use ns1:characterId="206" height="8.9" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="14.65" xlink:href="#right_1_shape0" />
+  </g>
+  <defs xmlns="http://www.w3.org/2000/svg">
+    <g id="right_1_shape0">
+      <path d="M13.75 -8.9 L14.35 0.0 -0.3 -0.05 13.75 -8.9" fill="#ffffff" fill-rule="evenodd" stroke="none" />
+    </g>
+  </defs>
+</g></g></g></svg>

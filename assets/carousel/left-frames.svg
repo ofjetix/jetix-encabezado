@@ -1,0 +1,222 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="800" height="53"><g transform="translate(0 0)"><defs><clipPath id="left_1_clip"><path d="M0 0H32V53H0Z"/></clipPath></defs><g clip-path="url(#left_1_clip)"><g transform="translate(0 11) scale(1.4)"><g xmlns="http://www.w3.org/2000/svg" xmlns:ns1="https://www.free-decompiler.com/flash" xmlns:xlink="http://www.w3.org/1999/xlink" transform="matrix(1.0, 0.0, 0.0, 1.0, 6.75, 16.0)">
+    <use ns1:characterId="196" height="10.65" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="12.7" xlink:href="#left_1_shape0" />
+  </g>
+  <defs xmlns="http://www.w3.org/2000/svg">
+    <g id="left_1_shape0">
+      <path d="M11.75 -0.2 L0.1 1.05 12.8 -9.6 11.75 -0.2" fill="#ffffff" fill-rule="evenodd" stroke="none" />
+    </g>
+  </defs>
+</g></g></g><g transform="translate(32 0)"><defs><clipPath id="left_2_clip"><path d="M0 0H32V53H0Z"/></clipPath></defs><g clip-path="url(#left_2_clip)"><g transform="translate(0 11) scale(1.4)"><g xmlns="http://www.w3.org/2000/svg" xmlns:ns1="https://www.free-decompiler.com/flash" xmlns:xlink="http://www.w3.org/1999/xlink" transform="matrix(1.0, 0.0, 0.0, 1.0, 6.75, 16.0)">
+    <use ns1:characterId="197" height="17.55" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="16.1" xlink:href="#morphshape0" />
+  </g>
+  <defs xmlns="http://www.w3.org/2000/svg" xmlns:ns1="https://www.free-decompiler.com/flash">
+    <g id="morphshape0">
+      <path d="M0.1 1.05 L11.75 -0.2 12.8 -9.6 0.1 1.05" fill="#ffffff" fill-rule="evenodd" stroke="none" />
+      <path d="M0.1 1.05 L12.8 -9.6 11.75 -0.2 0.1 1.05 Z" ns1:has-small-stroke="true" ns1:original-stroke-width="0.0" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.0" stroke-width="1.0" />
+    </g>
+  </defs>
+</g></g></g><g transform="translate(64 0)"><defs><clipPath id="left_3_clip"><path d="M0 0H32V53H0Z"/></clipPath></defs><g clip-path="url(#left_3_clip)"><g transform="translate(0 11) scale(1.4)"><g xmlns="http://www.w3.org/2000/svg" xmlns:ns1="https://www.free-decompiler.com/flash" xmlns:xlink="http://www.w3.org/1999/xlink" transform="matrix(1.0, 0.0, 0.0, 1.0, 6.75, 16.0)">
+    <use ns1:characterId="197" height="17.55" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="16.1" xlink:href="#morphshape0" />
+  </g>
+  <defs xmlns="http://www.w3.org/2000/svg" xmlns:ns1="https://www.free-decompiler.com/flash">
+    <g id="morphshape0">
+      <path d="M-0.1 1.05 L12.65 0.7 14.35 -12.8 -0.05 1.05" fill="#ffffff" fill-rule="evenodd" stroke="none" />
+      <path d="M-0.05 1.05 L14.35 -12.8 12.65 0.7 -0.1 1.05" ns1:has-small-stroke="true" ns1:original-stroke-width="0.0" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.0" stroke-width="1.0" />
+    </g>
+  </defs>
+</g></g></g><g transform="translate(96 0)"><defs><clipPath id="left_4_clip"><path d="M0 0H32V53H0Z"/></clipPath></defs><g clip-path="url(#left_4_clip)"><g transform="translate(0 11) scale(1.4)"><g xmlns="http://www.w3.org/2000/svg" xmlns:ns1="https://www.free-decompiler.com/flash" xmlns:xlink="http://www.w3.org/1999/xlink" transform="matrix(1.0, 0.0, 0.0, 1.0, 6.75, 16.0)">
+    <use ns1:characterId="198" height="19.75" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="22.7" xlink:href="#morphshape0" />
+  </g>
+  <defs xmlns="http://www.w3.org/2000/svg" xmlns:ns1="https://www.free-decompiler.com/flash">
+    <g id="morphshape0">
+      <path d="M-0.15 1.05 L13.65 1.55 15.95 -16.0 -0.15 1.05" fill="#ffffff" fill-rule="evenodd" stroke="none" />
+      <path d="M-0.15 1.05 L15.95 -16.0 13.65 1.55 -0.15 1.05 Z" ns1:has-small-stroke="true" ns1:original-stroke-width="0.0" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.0" stroke-width="1.0" />
+    </g>
+  </defs>
+</g></g></g><g transform="translate(128 0)"><defs><clipPath id="left_5_clip"><path d="M0 0H32V53H0Z"/></clipPath></defs><g clip-path="url(#left_5_clip)"><g transform="translate(0 11) scale(1.4)"><g xmlns="http://www.w3.org/2000/svg" xmlns:ns1="https://www.free-decompiler.com/flash" xmlns:xlink="http://www.w3.org/1999/xlink" transform="matrix(1.0, 0.0, 0.0, 1.0, 6.75, 16.0)">
+    <use ns1:characterId="198" height="19.75" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="22.7" xlink:href="#morphshape0" />
+  </g>
+  <defs xmlns="http://www.w3.org/2000/svg" xmlns:ns1="https://www.free-decompiler.com/flash">
+    <g id="morphshape0">
+      <path d="M-3.45 2.4 L13.65 1.55 15.95 -16.0 -3.45 2.4" fill="#ffffff" fill-rule="evenodd" stroke="none" />
+      <path d="M-3.45 2.4 L15.95 -16.0 13.65 1.55 -3.45 2.4 Z" ns1:has-small-stroke="true" ns1:original-stroke-width="0.0" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.0" stroke-width="1.0" />
+    </g>
+  </defs>
+</g></g></g><g transform="translate(160 0)"><defs><clipPath id="left_6_clip"><path d="M0 0H32V53H0Z"/></clipPath></defs><g clip-path="url(#left_6_clip)"><g transform="translate(0 11) scale(1.4)"><g xmlns="http://www.w3.org/2000/svg" xmlns:ns1="https://www.free-decompiler.com/flash" xmlns:xlink="http://www.w3.org/1999/xlink" transform="matrix(1.0, 0.0, 0.0, 1.0, 6.75, 16.0)">
+    <use ns1:characterId="199" height="19.75" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="22.7" xlink:href="#morphshape0" />
+  </g>
+  <defs xmlns="http://www.w3.org/2000/svg" xmlns:ns1="https://www.free-decompiler.com/flash">
+    <g id="morphshape0">
+      <path d="M-6.75 3.75 L13.65 1.55 15.95 -16.0 -6.75 3.75" fill="#ffffff" fill-rule="evenodd" stroke="none" />
+      <path d="M-6.75 3.75 L15.95 -16.0 13.65 1.55 -6.75 3.75 Z" ns1:has-small-stroke="true" ns1:original-stroke-width="0.0" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.0" stroke-width="1.0" />
+    </g>
+  </defs>
+</g></g></g><g transform="translate(192 0)"><defs><clipPath id="left_7_clip"><path d="M0 0H32V53H0Z"/></clipPath></defs><g clip-path="url(#left_7_clip)"><g transform="translate(0 11) scale(1.4)"><g xmlns="http://www.w3.org/2000/svg" xmlns:ns1="https://www.free-decompiler.com/flash" xmlns:xlink="http://www.w3.org/1999/xlink" transform="matrix(1.0, 0.0, 0.0, 1.0, 6.75, 16.0)">
+    <use ns1:characterId="199" height="19.75" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="22.7" xlink:href="#morphshape0" />
+  </g>
+  <defs xmlns="http://www.w3.org/2000/svg" xmlns:ns1="https://www.free-decompiler.com/flash">
+    <g id="morphshape0">
+      <path d="M-3.25 2.35 L12.75 0.65 14.4 -12.8 -3.3 2.4" fill="#ffffff" fill-rule="evenodd" stroke="none" />
+      <path d="M-3.3 2.4 L14.4 -12.8 12.75 0.65 -3.25 2.35" ns1:has-small-stroke="true" ns1:original-stroke-width="0.0" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.0" stroke-width="1.0" />
+    </g>
+  </defs>
+</g></g></g><g transform="translate(224 0)"><defs><clipPath id="left_8_clip"><path d="M0 0H32V53H0Z"/></clipPath></defs><g clip-path="url(#left_8_clip)"><g transform="translate(0 11) scale(1.4)"><g xmlns="http://www.w3.org/2000/svg" xmlns:ns1="https://www.free-decompiler.com/flash" xmlns:xlink="http://www.w3.org/1999/xlink" transform="matrix(1.0, 0.0, 0.0, 1.0, 6.75, 16.0)">
+    <use ns1:characterId="200" height="16.25" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="18.8" xlink:href="#morphshape0" />
+  </g>
+  <defs xmlns="http://www.w3.org/2000/svg" xmlns:ns1="https://www.free-decompiler.com/flash">
+    <g id="morphshape0">
+      <path d="M0.1 1.05 L11.75 -0.2 12.8 -9.6 0.1 1.05" fill="#ffffff" fill-rule="evenodd" stroke="none" />
+      <path d="M0.1 1.05 L12.8 -9.6 11.75 -0.2 0.1 1.05 Z" ns1:has-small-stroke="true" ns1:original-stroke-width="0.0" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.0" stroke-width="1.0" />
+    </g>
+  </defs>
+</g></g></g><g transform="translate(256 0)"><defs><clipPath id="left_9_clip"><path d="M0 0H32V53H0Z"/></clipPath></defs><g clip-path="url(#left_9_clip)"><g transform="translate(0 11) scale(1.4)"><g xmlns="http://www.w3.org/2000/svg" xmlns:ns1="https://www.free-decompiler.com/flash" xmlns:xlink="http://www.w3.org/1999/xlink" transform="matrix(1.0, 0.0, 0.0, 1.0, 6.75, 16.0)">
+    <use ns1:characterId="200" height="16.25" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="18.8" xlink:href="#morphshape0" />
+  </g>
+  <defs xmlns="http://www.w3.org/2000/svg" xmlns:ns1="https://www.free-decompiler.com/flash">
+    <g id="morphshape0">
+      <path d="M-0.8 1.6 L11.9 0.2 13.1 -10.15 -0.8 1.6" fill="#ffffff" fill-rule="evenodd" stroke="none" />
+      <path d="M-0.8 1.6 L13.1 -10.15 11.9 0.2 -0.8 1.6 Z" ns1:has-small-stroke="true" ns1:original-stroke-width="0.0" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.0" stroke-width="1.0" />
+    </g>
+  </defs>
+</g></g></g><g transform="translate(288 0)"><defs><clipPath id="left_10_clip"><path d="M0 0H32V53H0Z"/></clipPath></defs><g clip-path="url(#left_10_clip)"><g transform="translate(0 11) scale(1.4)"><g xmlns="http://www.w3.org/2000/svg" xmlns:ns1="https://www.free-decompiler.com/flash" xmlns:xlink="http://www.w3.org/1999/xlink" transform="matrix(1.0, 0.0, 0.0, 1.0, 6.75, 16.0)">
+    <use ns1:characterId="200" height="16.25" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="18.8" xlink:href="#morphshape0" />
+  </g>
+  <defs xmlns="http://www.w3.org/2000/svg" xmlns:ns1="https://www.free-decompiler.com/flash">
+    <g id="morphshape0">
+      <path d="M-1.7 2.05 L12.05 0.5 13.45 -10.8 -1.7 2.1" fill="#ffffff" fill-rule="evenodd" stroke="none" />
+      <path d="M-1.7 2.1 L13.45 -10.8 12.05 0.5 -1.7 2.05" ns1:has-small-stroke="true" ns1:original-stroke-width="0.0" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.0" stroke-width="1.0" />
+    </g>
+  </defs>
+</g></g></g><g transform="translate(320 0)"><defs><clipPath id="left_11_clip"><path d="M0 0H32V53H0Z"/></clipPath></defs><g clip-path="url(#left_11_clip)"><g transform="translate(0 11) scale(1.4)"><g xmlns="http://www.w3.org/2000/svg" xmlns:ns1="https://www.free-decompiler.com/flash" xmlns:xlink="http://www.w3.org/1999/xlink" transform="matrix(1.0, 0.0, 0.0, 1.0, 6.75, 16.0)">
+    <use ns1:characterId="200" height="16.25" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="18.8" xlink:href="#morphshape0" />
+  </g>
+  <defs xmlns="http://www.w3.org/2000/svg" xmlns:ns1="https://www.free-decompiler.com/flash">
+    <g id="morphshape0">
+      <path d="M-2.6 2.7 L12.2 0.95 13.75 -11.35 -2.6 2.65" fill="#ffffff" fill-rule="evenodd" stroke="none" />
+      <path d="M-2.6 2.65 L13.75 -11.35 12.2 0.95 -2.6 2.7" ns1:has-small-stroke="true" ns1:original-stroke-width="0.0" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.0" stroke-width="1.0" />
+    </g>
+  </defs>
+</g></g></g><g transform="translate(352 0)"><defs><clipPath id="left_12_clip"><path d="M0 0H32V53H0Z"/></clipPath></defs><g clip-path="url(#left_12_clip)"><g transform="translate(0 11) scale(1.4)"><g xmlns="http://www.w3.org/2000/svg" xmlns:ns1="https://www.free-decompiler.com/flash" xmlns:xlink="http://www.w3.org/1999/xlink" transform="matrix(1.0, 0.0, 0.0, 1.0, 6.75, 16.0)">
+    <use ns1:characterId="200" height="16.25" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="18.8" xlink:href="#morphshape0" />
+  </g>
+  <defs xmlns="http://www.w3.org/2000/svg" xmlns:ns1="https://www.free-decompiler.com/flash">
+    <g id="morphshape0">
+      <path d="M-3.5 3.15 L12.35 1.25 14.1 -12.0 -3.5 3.15" fill="#ffffff" fill-rule="evenodd" stroke="none" />
+      <path d="M-3.5 3.15 L14.1 -12.0 12.35 1.25 -3.5 3.15 Z" ns1:has-small-stroke="true" ns1:original-stroke-width="0.0" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.0" stroke-width="1.0" />
+    </g>
+  </defs>
+</g></g></g><g transform="translate(384 0)"><defs><clipPath id="left_13_clip"><path d="M0 0H32V53H0Z"/></clipPath></defs><g clip-path="url(#left_13_clip)"><g transform="translate(0 11) scale(1.4)"><g xmlns="http://www.w3.org/2000/svg" xmlns:ns1="https://www.free-decompiler.com/flash" xmlns:xlink="http://www.w3.org/1999/xlink" transform="matrix(1.0, 0.0, 0.0, 1.0, 6.75, 16.0)">
+    <use ns1:characterId="196" height="10.65" transform="matrix(1.4803, 0.0, 0.0, 1.5258, -4.55, 2.1)" width="12.7" xlink:href="#left_13_shape0" />
+  </g>
+  <defs xmlns="http://www.w3.org/2000/svg">
+    <g id="left_13_shape0">
+      <path d="M11.75 -0.2 L0.1 1.05 12.8 -9.6 11.75 -0.2" fill="#ffffff" fill-rule="evenodd" stroke="none" />
+    </g>
+  </defs>
+</g></g></g><g transform="translate(416 0)"><defs><clipPath id="left_14_clip"><path d="M0 0H32V53H0Z"/></clipPath></defs><g clip-path="url(#left_14_clip)"><g transform="translate(0 11) scale(1.4)"><g xmlns="http://www.w3.org/2000/svg" xmlns:ns1="https://www.free-decompiler.com/flash" xmlns:xlink="http://www.w3.org/1999/xlink" transform="matrix(1.0, 0.0, 0.0, 1.0, 6.75, 16.0)">
+    <use ns1:characterId="196" height="10.65" transform="matrix(1.4803, 0.0, 0.0, 1.5258, -4.55, 2.1)" width="12.7" xlink:href="#left_14_shape0" />
+  </g>
+  <defs xmlns="http://www.w3.org/2000/svg">
+    <g id="left_14_shape0">
+      <path d="M11.75 -0.2 L0.1 1.05 12.8 -9.6 11.75 -0.2" fill="#ffffff" fill-rule="evenodd" stroke="none" />
+    </g>
+  </defs>
+</g></g></g><g transform="translate(448 0)"><defs><clipPath id="left_15_clip"><path d="M0 0H32V53H0Z"/></clipPath></defs><g clip-path="url(#left_15_clip)"><g transform="translate(0 11) scale(1.4)"><g xmlns="http://www.w3.org/2000/svg" xmlns:ns1="https://www.free-decompiler.com/flash" xmlns:xlink="http://www.w3.org/1999/xlink" transform="matrix(1.0, 0.0, 0.0, 1.0, 6.75, 16.0)">
+    <use ns1:characterId="201" height="16.25" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="18.8" xlink:href="#morphshape0" />
+  </g>
+  <defs xmlns="http://www.w3.org/2000/svg" xmlns:ns1="https://www.free-decompiler.com/flash">
+    <g id="morphshape0">
+      <path d="M-4.4 3.7 L12.5 1.65 14.4 -12.55 -4.4 3.7" fill="#ffffff" fill-rule="evenodd" stroke="none" />
+      <path d="M-4.4 3.7 L14.4 -12.55 12.5 1.65 -4.4 3.7 Z" ns1:has-small-stroke="true" ns1:original-stroke-width="0.0" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.0" stroke-width="1.0" />
+    </g>
+  </defs>
+</g></g></g><g transform="translate(480 0)"><defs><clipPath id="left_16_clip"><path d="M0 0H32V53H0Z"/></clipPath></defs><g clip-path="url(#left_16_clip)"><g transform="translate(0 11) scale(1.4)"><g xmlns="http://www.w3.org/2000/svg" xmlns:ns1="https://www.free-decompiler.com/flash" xmlns:xlink="http://www.w3.org/1999/xlink" transform="matrix(1.0, 0.0, 0.0, 1.0, 6.75, 16.0)">
+    <use ns1:characterId="201" height="16.25" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="18.8" xlink:href="#morphshape0" />
+  </g>
+  <defs xmlns="http://www.w3.org/2000/svg" xmlns:ns1="https://www.free-decompiler.com/flash">
+    <g id="morphshape0">
+      <path d="M-3.3 3.05 L12.3 1.2 14.0 -11.8 -3.25 3.05" fill="#ffffff" fill-rule="evenodd" stroke="none" />
+      <path d="M-3.25 3.05 L14.0 -11.8 12.3 1.2 -3.3 3.05" ns1:has-small-stroke="true" ns1:original-stroke-width="0.0" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.0" stroke-width="1.0" />
+    </g>
+  </defs>
+</g></g></g><g transform="translate(512 0)"><defs><clipPath id="left_17_clip"><path d="M0 0H32V53H0Z"/></clipPath></defs><g clip-path="url(#left_17_clip)"><g transform="translate(0 11) scale(1.4)"><g xmlns="http://www.w3.org/2000/svg" xmlns:ns1="https://www.free-decompiler.com/flash" xmlns:xlink="http://www.w3.org/1999/xlink" transform="matrix(1.0, 0.0, 0.0, 1.0, 6.75, 16.0)">
+    <use ns1:characterId="201" height="16.25" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="18.8" xlink:href="#morphshape0" />
+  </g>
+  <defs xmlns="http://www.w3.org/2000/svg" xmlns:ns1="https://www.free-decompiler.com/flash">
+    <g id="morphshape0">
+      <path d="M-2.1 2.35 L12.15 0.7 13.6 -11.1 -2.15 2.35" fill="#ffffff" fill-rule="evenodd" stroke="none" />
+      <path d="M-2.15 2.35 L13.6 -11.1 12.15 0.7 -2.1 2.35" ns1:has-small-stroke="true" ns1:original-stroke-width="0.0" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.0" stroke-width="1.0" />
+    </g>
+  </defs>
+</g></g></g><g transform="translate(544 0)"><defs><clipPath id="left_18_clip"><path d="M0 0H32V53H0Z"/></clipPath></defs><g clip-path="url(#left_18_clip)"><g transform="translate(0 11) scale(1.4)"><g xmlns="http://www.w3.org/2000/svg" xmlns:ns1="https://www.free-decompiler.com/flash" xmlns:xlink="http://www.w3.org/1999/xlink" transform="matrix(1.0, 0.0, 0.0, 1.0, 6.75, 16.0)">
+    <use ns1:characterId="201" height="16.25" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="18.8" xlink:href="#morphshape0" />
+  </g>
+  <defs xmlns="http://www.w3.org/2000/svg" xmlns:ns1="https://www.free-decompiler.com/flash">
+    <g id="morphshape0">
+      <path d="M-1.0 1.7 L11.95 0.25 13.2 -10.35 -1.0 1.7" fill="#ffffff" fill-rule="evenodd" stroke="none" />
+      <path d="M-1.0 1.7 L13.2 -10.35 11.95 0.25 -1.0 1.7 Z" ns1:has-small-stroke="true" ns1:original-stroke-width="0.0" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.0" stroke-width="1.0" />
+    </g>
+  </defs>
+</g></g></g><g transform="translate(576 0)"><defs><clipPath id="left_19_clip"><path d="M0 0H32V53H0Z"/></clipPath></defs><g clip-path="url(#left_19_clip)"><g transform="translate(0 11) scale(1.4)"><g xmlns="http://www.w3.org/2000/svg" xmlns:ns1="https://www.free-decompiler.com/flash" xmlns:xlink="http://www.w3.org/1999/xlink" transform="matrix(1.0, 0.0, 0.0, 1.0, 6.75, 16.0)">
+    <use ns1:characterId="202" height="19.75" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="22.7" xlink:href="#morphshape0" />
+  </g>
+  <defs xmlns="http://www.w3.org/2000/svg" xmlns:ns1="https://www.free-decompiler.com/flash">
+    <g id="morphshape0">
+      <path d="M0.1 1.05 L11.75 -0.2 12.8 -9.6 0.1 1.05" fill="#ffffff" fill-rule="evenodd" stroke="none" />
+      <path d="M0.1 1.05 L12.8 -9.6 11.75 -0.2 0.1 1.05 Z" ns1:has-small-stroke="true" ns1:original-stroke-width="0.0" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.0" stroke-width="1.0" />
+    </g>
+  </defs>
+</g></g></g><g transform="translate(608 0)"><defs><clipPath id="left_20_clip"><path d="M0 0H32V53H0Z"/></clipPath></defs><g clip-path="url(#left_20_clip)"><g transform="translate(0 11) scale(1.4)"><g xmlns="http://www.w3.org/2000/svg" xmlns:ns1="https://www.free-decompiler.com/flash" xmlns:xlink="http://www.w3.org/1999/xlink" transform="matrix(1.0, 0.0, 0.0, 1.0, 6.75, 16.0)">
+    <use ns1:characterId="202" height="19.75" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="22.7" xlink:href="#morphshape0" />
+  </g>
+  <defs xmlns="http://www.w3.org/2000/svg" xmlns:ns1="https://www.free-decompiler.com/flash">
+    <g id="morphshape0">
+      <path d="M-3.4 2.45 L12.65 0.7 14.35 -12.8 -3.35 2.4" fill="#ffffff" fill-rule="evenodd" stroke="none" />
+      <path d="M-3.35 2.4 L14.35 -12.8 12.65 0.7 -3.4 2.45" ns1:has-small-stroke="true" ns1:original-stroke-width="0.0" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.0" stroke-width="1.0" />
+    </g>
+  </defs>
+</g></g></g><g transform="translate(640 0)"><defs><clipPath id="left_21_clip"><path d="M0 0H32V53H0Z"/></clipPath></defs><g clip-path="url(#left_21_clip)"><g transform="translate(0 11) scale(1.4)"><g xmlns="http://www.w3.org/2000/svg" xmlns:ns1="https://www.free-decompiler.com/flash" xmlns:xlink="http://www.w3.org/1999/xlink" transform="matrix(1.0, 0.0, 0.0, 1.0, 6.75, 16.0)">
+    <use ns1:characterId="203" height="19.75" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="22.7" xlink:href="#morphshape0" />
+  </g>
+  <defs xmlns="http://www.w3.org/2000/svg" xmlns:ns1="https://www.free-decompiler.com/flash">
+    <g id="morphshape0">
+      <path d="M-6.75 3.75 L13.65 1.55 15.95 -16.0 -6.75 3.75" fill="#ffffff" fill-rule="evenodd" stroke="none" />
+      <path d="M-6.75 3.75 L15.95 -16.0 13.65 1.55 -6.75 3.75 Z" ns1:has-small-stroke="true" ns1:original-stroke-width="0.0" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.0" stroke-width="1.0" />
+    </g>
+  </defs>
+</g></g></g><g transform="translate(672 0)"><defs><clipPath id="left_22_clip"><path d="M0 0H32V53H0Z"/></clipPath></defs><g clip-path="url(#left_22_clip)"><g transform="translate(0 11) scale(1.4)"><g xmlns="http://www.w3.org/2000/svg" xmlns:ns1="https://www.free-decompiler.com/flash" xmlns:xlink="http://www.w3.org/1999/xlink" transform="matrix(1.0, 0.0, 0.0, 1.0, 6.75, 16.0)">
+    <use ns1:characterId="203" height="19.75" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="22.7" xlink:href="#morphshape0" />
+  </g>
+  <defs xmlns="http://www.w3.org/2000/svg" xmlns:ns1="https://www.free-decompiler.com/flash">
+    <g id="morphshape0">
+      <path d="M-3.45 2.4 L13.65 1.55 15.95 -16.0 -3.45 2.4" fill="#ffffff" fill-rule="evenodd" stroke="none" />
+      <path d="M-3.45 2.4 L15.95 -16.0 13.65 1.55 -3.45 2.4 Z" ns1:has-small-stroke="true" ns1:original-stroke-width="0.0" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.0" stroke-width="1.0" />
+    </g>
+  </defs>
+</g></g></g><g transform="translate(704 0)"><defs><clipPath id="left_23_clip"><path d="M0 0H32V53H0Z"/></clipPath></defs><g clip-path="url(#left_23_clip)"><g transform="translate(0 11) scale(1.4)"><g xmlns="http://www.w3.org/2000/svg" xmlns:ns1="https://www.free-decompiler.com/flash" xmlns:xlink="http://www.w3.org/1999/xlink" transform="matrix(1.0, 0.0, 0.0, 1.0, 6.75, 16.0)">
+    <use ns1:characterId="204" height="17.55" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="16.1" xlink:href="#morphshape0" />
+  </g>
+  <defs xmlns="http://www.w3.org/2000/svg" xmlns:ns1="https://www.free-decompiler.com/flash">
+    <g id="morphshape0">
+      <path d="M-0.15 1.05 L13.65 1.55 15.95 -16.0 -0.15 1.05" fill="#ffffff" fill-rule="evenodd" stroke="none" />
+      <path d="M-0.15 1.05 L15.95 -16.0 13.65 1.55 -0.15 1.05 Z" ns1:has-small-stroke="true" ns1:original-stroke-width="0.0" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.0" stroke-width="1.0" />
+    </g>
+  </defs>
+</g></g></g><g transform="translate(736 0)"><defs><clipPath id="left_24_clip"><path d="M0 0H32V53H0Z"/></clipPath></defs><g clip-path="url(#left_24_clip)"><g transform="translate(0 11) scale(1.4)"><g xmlns="http://www.w3.org/2000/svg" xmlns:ns1="https://www.free-decompiler.com/flash" xmlns:xlink="http://www.w3.org/1999/xlink" transform="matrix(1.0, 0.0, 0.0, 1.0, 6.75, 16.0)">
+    <use ns1:characterId="204" height="17.55" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="16.1" xlink:href="#morphshape0" />
+  </g>
+  <defs xmlns="http://www.w3.org/2000/svg" xmlns:ns1="https://www.free-decompiler.com/flash">
+    <g id="morphshape0">
+      <path d="M0.05 1.05 L12.75 0.65 14.4 -12.8 0.0 1.05" fill="#ffffff" fill-rule="evenodd" stroke="none" />
+      <path d="M0.0 1.05 L14.4 -12.8 12.75 0.65 0.05 1.05" ns1:has-small-stroke="true" ns1:original-stroke-width="0.0" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.0" stroke-width="1.0" />
+    </g>
+  </defs>
+</g></g></g><g transform="translate(768 0)"><defs><clipPath id="left_25_clip"><path d="M0 0H32V53H0Z"/></clipPath></defs><g clip-path="url(#left_25_clip)"><g transform="translate(0 11) scale(1.4)"><g xmlns="http://www.w3.org/2000/svg" xmlns:ns1="https://www.free-decompiler.com/flash" xmlns:xlink="http://www.w3.org/1999/xlink" transform="matrix(1.0, 0.0, 0.0, 1.0, 6.75, 16.0)">
+    <use ns1:characterId="196" height="10.65" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="12.7" xlink:href="#left_25_shape0" />
+  </g>
+  <defs xmlns="http://www.w3.org/2000/svg">
+    <g id="left_25_shape0">
+      <path d="M11.75 -0.2 L0.1 1.05 12.8 -9.6 11.75 -0.2" fill="#ffffff" fill-rule="evenodd" stroke="none" />
+    </g>
+  </defs>
+</g></g></g></svg>
